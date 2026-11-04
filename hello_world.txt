@@ -1,0 +1,2 @@
+Was this really blank?
+Am I writing to hello_world, it seems so.
