@@ -1,5 +1,3 @@
 Hello world
-Hello world
 
-Hello world
-Hello world
+I'm just exploring the functionality of the default behaviour for commit mesages.
